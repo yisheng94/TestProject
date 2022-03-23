@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+######## for editing theme ###########
+# Aux links for the upper right navigation
+aux_links:
+  "this manual save location":
+    - "https://github.com/yisheng94/yisheng94.github.io"
